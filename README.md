@@ -1,4 +1,4 @@
-### Hi, I'm [Vishal Swami](https://techwarezen.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm [Vishal Swami](https://androhive.in/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 *An enthusiastic Programmer | Google Certified Android Developer  | Web Developer | Director Of Techwarezen | Open Source lover*
 <!--
@@ -11,13 +11,13 @@
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 💬 Ask me about Android and Flutter.
-- 📫 How to reach me **shashanksinghal02@gmail.com**
+- 📫 How to reach me **vishalswamiv@gmail.com**
 - ⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
 
 ### Me on Internet:
 
-<p><a href="https://twitter.com/shashank020597"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shashank-singhal-a87729b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/shanky4you/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-<p><a href="https://www.shashank02051997.github.io">➡️ Check out my website</a></p>
+<p><a href="https://twitter.com/vishalDroidx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/vishalswami27/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/vishalswami__/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+<p><a href="https://androhive.in">➡️ Check out my website</a></p>
 <br />
 <br />
 
